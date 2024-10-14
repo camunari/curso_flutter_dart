@@ -20,3 +20,7 @@ void main(){
 
   // no terminal rodar o comando "dart bin/imput.dart" para possibilitar respostas
 }
+
+void calculoUm(){
+  print("Calculo um do arquivo imput");
+}
